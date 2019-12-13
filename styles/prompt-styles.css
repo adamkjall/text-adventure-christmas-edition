@@ -1,0 +1,16 @@
+.prompt {
+  height: 15rem;
+  padding: 1rem;
+  margin-top: 1.5rem;
+  border: 2px solid var(--main-color);
+  
+  box-shadow: 2px 2px 7px 0px var(--main-color);
+  border-radius: 1rem;
+}
+
+.prompt .prompt-text {
+  height: 100%;
+  /* color: rgb(1, 172, 1); */
+  color: var(--main-color);
+  font-size: 1.3rem;
+}
