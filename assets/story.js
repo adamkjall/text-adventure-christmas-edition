@@ -37,7 +37,7 @@ export const story = {
     ]
   },
   springa: {
-    message: "Det gick fort. Ni är redan framme vid lagret. Längst in i lagret, där det är mörkast och kallast finns en dörr... Vågor ni öppna den?",
+    message: "Det gick fort. Ni är redan framme vid lagret. Längst in i lagret, där det är mörkast och kallast finns en dörr... Vågar ni öppna den?",
     choices: [
       {
         text: "Vi vågar",
